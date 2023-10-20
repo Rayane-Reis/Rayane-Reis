@@ -9,16 +9,6 @@
   <img align="center" alt="Ray-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Ray-mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-##
-
- <p> Tenho experiência com: </p>
-    <div>
-      <img align="center" alt="Ray-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
-      <img align="center" alt="Ray-photoshop" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-      <img align="center" alt="Ray-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-      <img align="center" alt="Ray-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    </div>
     
 ##
 
